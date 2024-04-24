@@ -1,6 +1,6 @@
 Deploy
 
-[Jorge Montaño](https://github.com/JMMB8/Portafolio_cv)
+[Jorge Montaño](https://jmmb8.github.io/Portafolio_cv/)
 
 Repositorios/Fork compañeros:
 
